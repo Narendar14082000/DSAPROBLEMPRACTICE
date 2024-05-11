@@ -13,15 +13,15 @@
 
 [5.Find a duplicate element in a limited range array](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/DuplicateArrayElement5.java)
 
-[6.Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
+[6.Find largest sub-array formed by consecutive integers](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/FindConsecutiveNumbers.java)
 
-[7.Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
+[7.Find maximum length sub-array having given sum](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/)
 
-[8.Find maximum length sub-array having equal number of 0’s and 1’s](http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/)
+[8.Find maximum length sub-array having equal number of 0’s and 1’s](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/)
 
-[9.Sort an array containing 0’s, 1’s and 2’s (Dutch national flag problem)](http://www.techiedelight.com/sort-array-containing-0s-1s-2s-dutch-national-flag-problem/)
+[9.Sort an array containing 0’s, 1’s and 2’s (Dutch national flag problem)](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/)
 
-[10.Inplace merge two sorted arrays](http://www.techiedelight.com/inplace-merge-two-sorted-arrays/)
+[10.Inplace merge two sorted arrays](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/)
 
 [11.Merge two arrays by satisfying given constraints](http://www.techiedelight.com/merge-two-arrays-satisfying-given-constraints/)
 
@@ -314,6 +314,174 @@
 [155.Find Frequency of each element in a sorted array containing duplicates](http://www.techiedelight.com/find-frequency-element-sorted-array-containing-duplicates/)
 
 [156.Difference between Subarray, Subsequence and Subset](http://www.techiedelight.com/difference-between-subarray-subsequence-subset/)
+
+### String
+
+[1.Check if given string is a rotated palindrome or not](http://www.techiedelight.com/check-given-string-rotated-palindrome-not/)
+
+[2.Longest Palindromic Substring (Non-DP Space Optimized Solution)](http://www.techiedelight.com/longest-palindromic-substring-non-dp-space-optimized-solution/)
+
+[3.Check if repeated subsequence is present in the string or not](http://www.techiedelight.com/check-repeated-subsequence-present-string-not/)
+
+[4.Check if strings can be derived from each other by circularly rotating them](http://www.techiedelight.com/check-strings-can-derived-circularly-rotating/)
+
+[5.Check if given set of moves is circular or not](http://www.techiedelight.com/check-given-set-moves-circular-not/)
+
+[6.Convert given number into corresponding excel column name](http://www.techiedelight.com/convert-given-number-corresponding-excel-column-name/)
+
+[7.Determine if two strings are anagram or not](http://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/)
+
+[8.Find all binary strings that can be formed from given wildcard pattern](http://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/)
+
+[9.Find all interleavings of given strings](http://www.techiedelight.com/find-interleavings-of-given-strings/)
+
+[10.Isomorphic Strings](http://www.techiedelight.com/isomorphic-strings/)
+
+[11.Find all possible palindromic substrings in a string](http://www.techiedelight.com/find-possible-palindromic-substrings-string/)
+
+[12.Find all possible combinations of words formed from mobile keypad](http://www.techiedelight.com/find-possible-combinations-words-formed-from-mobile-keypad/)
+
+[13.Find all possible combinations by replacing given digits with characters of the corresponding list](http://www.techiedelight.com/possible-combinations-replacing-given-digits-corresponding-list/)
+
+[14.Find all words from given list that follows same order of characters as given pattern](http://www.techiedelight.com/find-words-that-follows-given-pattern/)
+
+[15.Find first k non-repeating characters in a string in single traversal](http://www.techiedelight.com/first-k-non-repeating-characters-string/)
+
+[16.Group anagrams together from given list of words](http://www.techiedelight.com/group-anagrams-together-given-list-words/)
+
+[17.Introduction to Pattern Matching](http://www.techiedelight.com/introduction-pattern-matching/)
+
+[18.Inplace remove all occurrences of ‘AB’ and ‘C’ from the string](http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/)
+
+[19.Longest even length palidromic sum substring](http://www.techiedelight.com/longest-even-length-palidromic-sum-substring/)
+
+[20.Print string in zig-zag form in k rows](http://www.techiedelight.com/print-string-in-zig-zag-form-k-rows/)
+
+[21.Reverse given text without reversing the individual words](http://www.techiedelight.com/reverse-text-without-reversing-individual-words/)
+
+[22.Run Length Encoding (RLE) data compression algorithm](http://www.techiedelight.com/run-length-encoding-rle-data-compression-algorithm/)
+
+[23.Validate an IP address](http://www.techiedelight.com/validate-ip-address/)
+
+[24.Find the longest substring of given string containing k distinct characters](http://www.techiedelight.com/find-longest-substring-containing-k-distinct-characters/)
+
+[25.Find all palindromic permutations of a string](http://www.techiedelight.com/find-palindromic-permutations-string/)
+
+[26.Find all substrings of a string that are permutation of a given string](http://www.techiedelight.com/find-substrings-string-permutation-given-string/)
+
+[27.Find the longest substring of given string containing all distinct characters](http://www.techiedelight.com/find-longest-substring-given-string-containing-distinct-characters/)
+
+[28.Find all Permutations of a given string](http://www.techiedelight.com/find-permutations-given-string/)
+
+[29.Iterative Approach to find Permutations of a String in C++ and Java](http://www.techiedelight.com/find-permutations-string-cpp-java-iterative/)
+
+[30.Generate all Permutations of a String in Java | Recursive &amp; Iterative](http://www.techiedelight.com/generate-permutations-string-java-recursive-iterative/)
+
+[31.Find all lexicographically next permutations of a string sorted in ascending order](http://www.techiedelight.com/find-lexicographically-next-permutations-string-sorted-ascending-order/)
+
+[32.Find Lexicographically minimal string rotation](http://www.techiedelight.com/find-lexicographically-minimal-string-rotation/)
+
+[33.Find all strings of given length containing balanced parentheses](http://www.techiedelight.com/find-strings-given-length-containing-balanced-parentheses/)
+
+[34.Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach)](http://www.techiedelight.com/find-n-digit-strictly-increasing-numbers-bottom-top-approach/)
+
+[35.Find all N-digit binary numbers having more 1’s than 0’s for any prefix](http://www.techiedelight.com/find-n-digit-binary-numbers-having-more-one-than-zero/)
+
+[36.Find all N-digit numbers with given sum of digits](http://www.techiedelight.com/find-all-n-digit-numbers-given-sum-digits/)
+
+[37.Find all N-digit binary numbers with k-bits set where k ranges from 1 to N](http://www.techiedelight.com/find-n-digit-binary-numbers-k-bits-set-k-ranges-1-n/)
+
+[38.Generate binary numbers between 1 to N](http://www.techiedelight.com/generate-binary-numbers-1-n/)
+
+[39.Find all combinations of non-overlapping substrings of a string](http://www.techiedelight.com/find-combinations-non-overlapping-substrings-string/)
+
+[40.Check if given sentence is syntactically correct or not](http://www.techiedelight.com/check-given-sentence-syntactically-correct-not/)
+
+[41.Calculate rank of given string among all its lexicographically sorted permutations](http://www.techiedelight.com/calculate-rank-lexicographically-sorted-permutations/)
+
+[42.Find all Lexicographic Permutations of a String](http://www.techiedelight.com/find-lexicographic-permutations-string/)
+
+[43.Find all N-digit binary numbers with equal sum of bits in its two halves](http://www.techiedelight.com/find-n-digit-binary-numbers-equal-sum-bits-two-halves/)
+
+[44.Check if given string is interleaving of two other given strings](http://www.techiedelight.com/check-string-interleaving-two-given-strings/)
+
+[45.Difference between Subarray, Subsequence and Subset](http://www.techiedelight.com/difference-between-subarray-subsequence-subset/)
+
+[46.std::next_permutation | Overview &amp; Implementation in C++](http://www.techiedelight.com/std_next_permutation-overview-implementation/)
+
+[47.std::prev_permutation | Overview &amp; Implementation in C++](http://www.techiedelight.com/std_prev_permutation-overview-implementation/)
+
+[48.Implementation of KMP Algorithm in C, C++ and Java](http://www.techiedelight.com/implementation-kmp-algorithm-c-cpp-java/)
+
+[49.Reverse String without using Recursion](http://www.techiedelight.com/reverse-string-without-using-recursion/)
+
+[50.Reverse given string using Recursion](http://www.techiedelight.com/reverse-a-string-using-recursion/)
+
+[51.Reverse a String in Java in 10 different ways](http://www.techiedelight.com/10-ways-reverse-a-string-java/)
+
+[52.Determine if a given string is palindrome or not](http://www.techiedelight.com/determine-given-string-is-palindrome-not/)
+
+[53.In-place remove all adjacent duplicates from the given string](http://www.techiedelight.com/in-place-remove-all-adjacent-duplicates-from-string/)
+
+[54.Find the minimum number of inversions needed to make the given expression balanced](http://www.techiedelight.com/minimum-number-inversions-expression-balanced/)
+
+[55.Replace all non-overlapping occurrences of the pattern](http://www.techiedelight.com/replace-non-overlapping-occurrences-pattern/)
+
+[56.Construct the longest palindrome by shuffling or deleting characters from a string](http://www.techiedelight.com/construct-longest-palindrome-string/)
+
+[57.Determine if characters of a String follows a specified order or not](http://www.techiedelight.com/determine-string-follows-specified-order/)
+
+[58.Print all combinations of phrases that can be formed by picking words from each of the given lists](http://www.techiedelight.com/combinations-phrases-formed-picking-words-lists/)
+
+[59.Remove all extra spaces from a string](http://www.techiedelight.com/remove-extra-spaces-string/)
+
+[60.Break a string into all possible combinations of non-overlapping substrings](http://www.techiedelight.com/break-string-non-overlapping-substrings/)
+
+[61.Remove adjacent duplicate characters from a string](http://www.techiedelight.com/remove-adjacent-duplicates-characters-string/)
+
+[62.Combinations of words formed by replacing given numbers with corresponding alphabets](http://www.techiedelight.com/combinations-of-words-formed-replacing-given-numbers-corresponding-english-alphabet/)
+
+[63.Word Break Problem](http://www.techiedelight.com/word-break-problem/)
+
+[64.Wildcard Pattern Matching](http://www.techiedelight.com/wildcard-pattern-matching/)
+
+[65.Count number of times a pattern appears in given string as a subsequence](http://www.techiedelight.com/count-number-times-pattern-appears-given-string-subsequence/)
+
+[66.The Levenshtein distance (Edit distance) problem](http://www.techiedelight.com/levenshtein-distance-edit-distance-problem/)
+
+[67.Longest Common Subsequence | Introduction &amp; LCS Length](http://www.techiedelight.com/longest-common-subsequence/)
+
+[68.Longest Common Subsequence | Space optimized version](http://www.techiedelight.com/longest-common-subsequence-lcs-space-optimized-version/)
+
+[69.Longest Common Subsequence of K-sequences](http://www.techiedelight.com/longest-common-subsequence-of-k-sequences/)
+
+[70.Longest Common Subsequence | Finding all LCS](http://www.techiedelight.com/longest-common-subsequence-finding-lcs/)
+
+[71.Longest Repeated Subsequence problem](http://www.techiedelight.com/longest-repeated-subsequence-problem/)
+
+[72.Longest Palindromic Subsequence using Dynamic Programming](http://www.techiedelight.com/longest-palindromic-subsequence-using-dynamic-programming/)
+
+[73.Longest Common Substring problem](http://www.techiedelight.com/longest-common-substring-problem/)
+
+[74.Shortest Common Supersequence | Introduction &amp; SCS Length](http://www.techiedelight.com/shortest-common-supersequence-introduction-scs-length/)
+
+[75.Shortest Common Supersequence | Finding all SCS](http://www.techiedelight.com/shortest-common-supersequence-finding-scs/)
+
+[76.Shortest Common Supersequence | Using LCS](http://www.techiedelight.com/shortest-common-supersequence-using-lcs/)
+
+[77.Implement Diff Utility](http://www.techiedelight.com/implement-diff-utility/)
+
+[78.Word Break Problem | Using Trie Data Structure](http://www.techiedelight.com/word-break-problem-using-trie/)
+
+[79.Find minimum cuts needed for palindromic partition of a string](http://www.techiedelight.com/find-minimum-cuts-needed-palindromic-partition-string/)
+
+[80.Check if a string is K-Palindrome or not](http://www.techiedelight.com/check-given-string-k-palindrome-not/)
+
+[81.Find shortest route in a device to construct the given string](http://www.techiedelight.com/find-shortest-route-device-construct-given-string/)
+
+[82.Find minimum number possible by doing at-most K swaps](http://www.techiedelight.com/find-minimum-number-possible-k-swaps/)
+
+[83.Determine if a pattern matches with a string or not](http://www.techiedelight.com/determine-pattern-matches-string-not/)
 
 
 ### Backtracking
@@ -1223,176 +1391,6 @@
 [16.Invert given Binary Tree | Recursive and Iterative solution](http://www.techiedelight.com/invert-binary-tree-recursive-iterative/)
 
 [17.Print leaf to root path for every leaf node in a binary tree](http://www.techiedelight.com/print-leaf-to-root-path-binary-tree/)
-
-
-### String
-
-[1.Check if given string is a rotated palindrome or not](http://www.techiedelight.com/check-given-string-rotated-palindrome-not/)
-
-[2.Longest Palindromic Substring (Non-DP Space Optimized Solution)](http://www.techiedelight.com/longest-palindromic-substring-non-dp-space-optimized-solution/)
-
-[3.Check if repeated subsequence is present in the string or not](http://www.techiedelight.com/check-repeated-subsequence-present-string-not/)
-
-[4.Check if strings can be derived from each other by circularly rotating them](http://www.techiedelight.com/check-strings-can-derived-circularly-rotating/)
-
-[5.Check if given set of moves is circular or not](http://www.techiedelight.com/check-given-set-moves-circular-not/)
-
-[6.Convert given number into corresponding excel column name](http://www.techiedelight.com/convert-given-number-corresponding-excel-column-name/)
-
-[7.Determine if two strings are anagram or not](http://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/)
-
-[8.Find all binary strings that can be formed from given wildcard pattern](http://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/)
-
-[9.Find all interleavings of given strings](http://www.techiedelight.com/find-interleavings-of-given-strings/)
-
-[10.Isomorphic Strings](http://www.techiedelight.com/isomorphic-strings/)
-
-[11.Find all possible palindromic substrings in a string](http://www.techiedelight.com/find-possible-palindromic-substrings-string/)
-
-[12.Find all possible combinations of words formed from mobile keypad](http://www.techiedelight.com/find-possible-combinations-words-formed-from-mobile-keypad/)
-
-[13.Find all possible combinations by replacing given digits with characters of the corresponding list](http://www.techiedelight.com/possible-combinations-replacing-given-digits-corresponding-list/)
-
-[14.Find all words from given list that follows same order of characters as given pattern](http://www.techiedelight.com/find-words-that-follows-given-pattern/)
-
-[15.Find first k non-repeating characters in a string in single traversal](http://www.techiedelight.com/first-k-non-repeating-characters-string/)
-
-[16.Group anagrams together from given list of words](http://www.techiedelight.com/group-anagrams-together-given-list-words/)
-
-[17.Introduction to Pattern Matching](http://www.techiedelight.com/introduction-pattern-matching/)
-
-[18.Inplace remove all occurrences of ‘AB’ and ‘C’ from the string](http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/)
-
-[19.Longest even length palidromic sum substring](http://www.techiedelight.com/longest-even-length-palidromic-sum-substring/)
-
-[20.Print string in zig-zag form in k rows](http://www.techiedelight.com/print-string-in-zig-zag-form-k-rows/)
-
-[21.Reverse given text without reversing the individual words](http://www.techiedelight.com/reverse-text-without-reversing-individual-words/)
-
-[22.Run Length Encoding (RLE) data compression algorithm](http://www.techiedelight.com/run-length-encoding-rle-data-compression-algorithm/)
-
-[23.Validate an IP address](http://www.techiedelight.com/validate-ip-address/)
-
-[24.Find the longest substring of given string containing k distinct characters](http://www.techiedelight.com/find-longest-substring-containing-k-distinct-characters/)
-
-[25.Find all palindromic permutations of a string](http://www.techiedelight.com/find-palindromic-permutations-string/)
-
-[26.Find all substrings of a string that are permutation of a given string](http://www.techiedelight.com/find-substrings-string-permutation-given-string/)
-
-[27.Find the longest substring of given string containing all distinct characters](http://www.techiedelight.com/find-longest-substring-given-string-containing-distinct-characters/)
-
-[28.Find all Permutations of a given string](http://www.techiedelight.com/find-permutations-given-string/)
-
-[29.Iterative Approach to find Permutations of a String in C++ and Java](http://www.techiedelight.com/find-permutations-string-cpp-java-iterative/)
-
-[30.Generate all Permutations of a String in Java | Recursive &amp; Iterative](http://www.techiedelight.com/generate-permutations-string-java-recursive-iterative/)
-
-[31.Find all lexicographically next permutations of a string sorted in ascending order](http://www.techiedelight.com/find-lexicographically-next-permutations-string-sorted-ascending-order/)
-
-[32.Find Lexicographically minimal string rotation](http://www.techiedelight.com/find-lexicographically-minimal-string-rotation/)
-
-[33.Find all strings of given length containing balanced parentheses](http://www.techiedelight.com/find-strings-given-length-containing-balanced-parentheses/)
-
-[34.Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach)](http://www.techiedelight.com/find-n-digit-strictly-increasing-numbers-bottom-top-approach/)
-
-[35.Find all N-digit binary numbers having more 1’s than 0’s for any prefix](http://www.techiedelight.com/find-n-digit-binary-numbers-having-more-one-than-zero/)
-
-[36.Find all N-digit numbers with given sum of digits](http://www.techiedelight.com/find-all-n-digit-numbers-given-sum-digits/)
-
-[37.Find all N-digit binary numbers with k-bits set where k ranges from 1 to N](http://www.techiedelight.com/find-n-digit-binary-numbers-k-bits-set-k-ranges-1-n/)
-
-[38.Generate binary numbers between 1 to N](http://www.techiedelight.com/generate-binary-numbers-1-n/)
-
-[39.Find all combinations of non-overlapping substrings of a string](http://www.techiedelight.com/find-combinations-non-overlapping-substrings-string/)
-
-[40.Check if given sentence is syntactically correct or not](http://www.techiedelight.com/check-given-sentence-syntactically-correct-not/)
-
-[41.Calculate rank of given string among all its lexicographically sorted permutations](http://www.techiedelight.com/calculate-rank-lexicographically-sorted-permutations/)
-
-[42.Find all Lexicographic Permutations of a String](http://www.techiedelight.com/find-lexicographic-permutations-string/)
-
-[43.Find all N-digit binary numbers with equal sum of bits in its two halves](http://www.techiedelight.com/find-n-digit-binary-numbers-equal-sum-bits-two-halves/)
-
-[44.Check if given string is interleaving of two other given strings](http://www.techiedelight.com/check-string-interleaving-two-given-strings/)
-
-[45.Difference between Subarray, Subsequence and Subset](http://www.techiedelight.com/difference-between-subarray-subsequence-subset/)
-
-[46.std::next_permutation | Overview &amp; Implementation in C++](http://www.techiedelight.com/std_next_permutation-overview-implementation/)
-
-[47.std::prev_permutation | Overview &amp; Implementation in C++](http://www.techiedelight.com/std_prev_permutation-overview-implementation/)
-
-[48.Implementation of KMP Algorithm in C, C++ and Java](http://www.techiedelight.com/implementation-kmp-algorithm-c-cpp-java/)
-
-[49.Reverse String without using Recursion](http://www.techiedelight.com/reverse-string-without-using-recursion/)
-
-[50.Reverse given string using Recursion](http://www.techiedelight.com/reverse-a-string-using-recursion/)
-
-[51.Reverse a String in Java in 10 different ways](http://www.techiedelight.com/10-ways-reverse-a-string-java/)
-
-[52.Determine if a given string is palindrome or not](http://www.techiedelight.com/determine-given-string-is-palindrome-not/)
-
-[53.In-place remove all adjacent duplicates from the given string](http://www.techiedelight.com/in-place-remove-all-adjacent-duplicates-from-string/)
-
-[54.Find the minimum number of inversions needed to make the given expression balanced](http://www.techiedelight.com/minimum-number-inversions-expression-balanced/)
-
-[55.Replace all non-overlapping occurrences of the pattern](http://www.techiedelight.com/replace-non-overlapping-occurrences-pattern/)
-
-[56.Construct the longest palindrome by shuffling or deleting characters from a string](http://www.techiedelight.com/construct-longest-palindrome-string/)
-
-[57.Determine if characters of a String follows a specified order or not](http://www.techiedelight.com/determine-string-follows-specified-order/)
-
-[58.Print all combinations of phrases that can be formed by picking words from each of the given lists](http://www.techiedelight.com/combinations-phrases-formed-picking-words-lists/)
-
-[59.Remove all extra spaces from a string](http://www.techiedelight.com/remove-extra-spaces-string/)
-
-[60.Break a string into all possible combinations of non-overlapping substrings](http://www.techiedelight.com/break-string-non-overlapping-substrings/)
-
-[61.Remove adjacent duplicate characters from a string](http://www.techiedelight.com/remove-adjacent-duplicates-characters-string/)
-
-[62.Combinations of words formed by replacing given numbers with corresponding alphabets](http://www.techiedelight.com/combinations-of-words-formed-replacing-given-numbers-corresponding-english-alphabet/)
-
-[63.Word Break Problem](http://www.techiedelight.com/word-break-problem/)
-
-[64.Wildcard Pattern Matching](http://www.techiedelight.com/wildcard-pattern-matching/)
-
-[65.Count number of times a pattern appears in given string as a subsequence](http://www.techiedelight.com/count-number-times-pattern-appears-given-string-subsequence/)
-
-[66.The Levenshtein distance (Edit distance) problem](http://www.techiedelight.com/levenshtein-distance-edit-distance-problem/)
-
-[67.Longest Common Subsequence | Introduction &amp; LCS Length](http://www.techiedelight.com/longest-common-subsequence/)
-
-[68.Longest Common Subsequence | Space optimized version](http://www.techiedelight.com/longest-common-subsequence-lcs-space-optimized-version/)
-
-[69.Longest Common Subsequence of K-sequences](http://www.techiedelight.com/longest-common-subsequence-of-k-sequences/)
-
-[70.Longest Common Subsequence | Finding all LCS](http://www.techiedelight.com/longest-common-subsequence-finding-lcs/)
-
-[71.Longest Repeated Subsequence problem](http://www.techiedelight.com/longest-repeated-subsequence-problem/)
-
-[72.Longest Palindromic Subsequence using Dynamic Programming](http://www.techiedelight.com/longest-palindromic-subsequence-using-dynamic-programming/)
-
-[73.Longest Common Substring problem](http://www.techiedelight.com/longest-common-substring-problem/)
-
-[74.Shortest Common Supersequence | Introduction &amp; SCS Length](http://www.techiedelight.com/shortest-common-supersequence-introduction-scs-length/)
-
-[75.Shortest Common Supersequence | Finding all SCS](http://www.techiedelight.com/shortest-common-supersequence-finding-scs/)
-
-[76.Shortest Common Supersequence | Using LCS](http://www.techiedelight.com/shortest-common-supersequence-using-lcs/)
-
-[77.Implement Diff Utility](http://www.techiedelight.com/implement-diff-utility/)
-
-[78.Word Break Problem | Using Trie Data Structure](http://www.techiedelight.com/word-break-problem-using-trie/)
-
-[79.Find minimum cuts needed for palindromic partition of a string](http://www.techiedelight.com/find-minimum-cuts-needed-palindromic-partition-string/)
-
-[80.Check if a string is K-Palindrome or not](http://www.techiedelight.com/check-given-string-k-palindrome-not/)
-
-[81.Find shortest route in a device to construct the given string](http://www.techiedelight.com/find-shortest-route-device-construct-given-string/)
-
-[82.Find minimum number possible by doing at-most K swaps](http://www.techiedelight.com/find-minimum-number-possible-k-swaps/)
-
-[83.Determine if a pattern matches with a string or not](http://www.techiedelight.com/determine-pattern-matches-string-not/)
-
 
 ### Trie
 
