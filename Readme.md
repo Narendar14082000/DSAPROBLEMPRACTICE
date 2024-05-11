@@ -5,13 +5,13 @@
 
 [1.Find pair with given sum in the array](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/SumOfTwoNum.java)
 
-[2.Check if subarray with 0 sum is exists or not](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/)
+[2.Check if subarray with 0 sum is exists or not](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/ZeroExists.java)
 
-[3.Print all sub-arrays with 0 sum](http://www.techiedelight.com/find-sub-array-with-0-sum/)
+[3.Print all sub-arrays with 0 sum](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/SumOfTwoNum.java)
 
-[4.Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
+[4.Sort binary array in linear time](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/BinarySortZero4.java)
 
-[5.Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
+[5.Find a duplicate element in a limited range array](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/DuplicateArrayElement5.java)
 
 [6.Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
 
