@@ -1,1 +1,2 @@
-./Arrays/.class
+# Ignore .class files in ARRAYS folder
+ARRAYS/*.class
