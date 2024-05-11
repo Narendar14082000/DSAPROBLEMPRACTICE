@@ -7,9 +7,9 @@
 
 [2.Check if subarray with 0 sum is exists or not](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/ZeroExists.java)
 
-[3.Print all sub-arrays with 0 sum](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/SumOfTwoNum.java)
+[3.Print all sub-arrays with 0 sum](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/BinarySortZero4.java)
 
-[4.Sort binary array in linear time](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/BinarySortZero4.java)
+[4.Sort binary array in linear time](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/SortBinaryArray.java)
 
 [5.Find a duplicate element in a limited range array](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/DuplicateArrayElement5.java)
 
