@@ -3,9 +3,9 @@
 
 ### Array
 
-[1.Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
+[1.Find pair with given sum in the array](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/SumOfTwoNum.java)
 
-[2.Check if subarray with 0 sum is exists or not](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)
+[2.Check if subarray with 0 sum is exists or not](https://github.com/Narendar14082000/DSAPROBLEMPRACTICE/blob/master/Arrays/)
 
 [3.Print all sub-arrays with 0 sum](http://www.techiedelight.com/find-sub-array-with-0-sum/)
 
